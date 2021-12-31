@@ -1,5 +1,6 @@
-I am Wei-Yu, Chen (William Chen) 陳威宇 from Taiwan
-Current MS student at the University of Maryland at College Park studying Electrical and Computer Engineering
-I have a bachelor’s degree from the department of Engineering Science and Ocean Engineering at National Taiwan University.
-Previously, I joined the Advance Fluid Power Control Lab(AFPCL), advised by Prof. Dr.-Ing. Chiang Mao Hsiung, and the Computational Knowledge Lab(CK Lab), advised by Prof. Dr. Huang Chien Kang, working on Simultaneous Localization and Mapping(SLAM).
+I am William Chen 陳威宇 from Taiwan
+Current MS student at the University of Maryland at College Park studying Electrical and Computer Engineering.
+I have a bachelor’s degree from the department of Engineering Science and Ocean Engineering at National Taiwan University(2018-2021 graduating 1 year early).
+Previously, I worked under the Advance Fluid Power Control Lab(AFPCL), advised by Prof. Dr.-Ing. Chiang Mao Hsiung, and the Computational Knowledge Lab(CK Lab), advised by Prof. Dr. Huang Chien Kang, working on indoor Simultaneous Localization and Mapping(SLAM).
+I am currently working under the Perception Robotics Group(PRG), advised by Prof. Dr. Yiannis Aloimonos, working on underwater SLAM.
 former team member on the Virtual RobotX 2019 team Tang with a focus on Robot Perception.

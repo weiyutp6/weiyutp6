@@ -22,6 +22,7 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 | [cir-treasury-pricing](https://github.com/weiyutp6/cir-treasury-pricing) | CIR and Hull-White implied volatility, calibration and option chains for binary Treasury-yield contracts |
 | [mlb-prediction-market-framework](https://github.com/weiyutp6/mlb-prediction-market-framework) | Paper-trading pipeline: fair probabilities vs order books, fractional Kelly sizing, execution layer |
 | [orderbook-kalman-filter](https://github.com/weiyutp6/orderbook-kalman-filter) | Kalman filter for price and velocity driven by order-book imbalance and volatility |
+| [volatility-models](https://github.com/weiyutp6/volatility-models) | Neural GARCH against GARCH(1,1), leveraged-product Monte Carlo, Black-Scholes option tools |
 
 ## Skills
 

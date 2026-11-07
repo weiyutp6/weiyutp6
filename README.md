@@ -23,6 +23,8 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 | [mlb-prediction-market-framework](https://github.com/weiyutp6/mlb-prediction-market-framework) | Paper-trading pipeline: fair probabilities vs order books, fractional Kelly sizing, execution layer |
 | [orderbook-kalman-filter](https://github.com/weiyutp6/orderbook-kalman-filter) | Kalman filter for price and velocity driven by order-book imbalance and volatility |
 | [volatility-models](https://github.com/weiyutp6/volatility-models) | Neural GARCH against GARCH(1,1), leveraged-product Monte Carlo, Black-Scholes option tools |
+| [vix-leveraged-etf-research](https://github.com/weiyutp6/vix-leveraged-etf-research) | Volatility-product decay, GARCH simulation of VIX, S&P 500 correlation vs VIX hypothesis test |
+| [options-pnl-and-chain-tools](https://github.com/weiyutp6/options-pnl-and-chain-tools) | Multi-leg option P&L, OCR option-chain parsing, implied volatility and Greeks |
 
 ## Skills
 

@@ -27,6 +27,7 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 | [options-pnl-and-chain-tools](https://github.com/weiyutp6/options-pnl-and-chain-tools) | Multi-leg option P&L, OCR option-chain parsing, implied volatility and Greeks |
 | [kalshi-autoquoter-framework](https://github.com/weiyutp6/kalshi-autoquoter-framework) | GARCH + Black-Scholes fair value for FX binaries, strike-ladder quoting, exposure budget (placeholder parameters, dry-run default) |
 | [polymarket-us-cli-toolkit](https://github.com/weiyutp6/polymarket-us-cli-toolkit) | Market discovery, order books, account state and order entry for Polymarket US |
+| [strategy-research-overview](https://github.com/weiyutp6/strategy-research-overview) | Description of my research directions (stat-arb, volatility, credit, prediction markets); no code or parameters |
 
 ## Skills
 

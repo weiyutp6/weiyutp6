@@ -19,6 +19,7 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 | [DVLError](https://github.com/weiyutp6/DVLError) | Monte Carlo study of noise and bias accumulating into drift (random walk) |
 | [OptimalCoveragePathPlanningProblem](https://github.com/weiyutp6/OptimalCoveragePathPlanningProblem) | Combinatorial optimization: minimum-turn coverage as a generalized TSP |
 | [Nomoto-model-calculations](https://github.com/weiyutp6/Nomoto-model-calculations) | System identification, transfer-function modelling and reinforcement learning |
+| [cir-treasury-pricing](https://github.com/weiyutp6/cir-treasury-pricing) | CIR and Hull-White implied volatility, calibration and option chains for binary Treasury-yield contracts |
 
 ## Skills
 

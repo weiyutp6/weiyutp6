@@ -25,6 +25,8 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 | [volatility-models](https://github.com/weiyutp6/volatility-models) | Neural GARCH against GARCH(1,1), leveraged-product Monte Carlo, Black-Scholes option tools |
 | [vix-leveraged-etf-research](https://github.com/weiyutp6/vix-leveraged-etf-research) | Volatility-product decay, GARCH simulation of VIX, S&P 500 correlation vs VIX hypothesis test |
 | [options-pnl-and-chain-tools](https://github.com/weiyutp6/options-pnl-and-chain-tools) | Multi-leg option P&L, OCR option-chain parsing, implied volatility and Greeks |
+| [kalshi-autoquoter-framework](https://github.com/weiyutp6/kalshi-autoquoter-framework) | GARCH + Black-Scholes fair value for FX binaries, strike-ladder quoting, exposure budget (placeholder parameters, dry-run default) |
+| [polymarket-us-cli-toolkit](https://github.com/weiyutp6/polymarket-us-cli-toolkit) | Market discovery, order books, account state and order entry for Polymarket US |
 
 ## Skills
 

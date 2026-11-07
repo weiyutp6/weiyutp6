@@ -28,6 +28,7 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 | [kalshi-autoquoter-framework](https://github.com/weiyutp6/kalshi-autoquoter-framework) | GARCH + Black-Scholes fair value for FX binaries, strike-ladder quoting, exposure budget (placeholder parameters, dry-run default) |
 | [polymarket-us-cli-toolkit](https://github.com/weiyutp6/polymarket-us-cli-toolkit) | Market discovery, order books, account state and order entry for Polymarket US |
 | [strategy-research-overview](https://github.com/weiyutp6/strategy-research-overview) | Description of my research directions (stat-arb, volatility, credit, prediction markets); no code or parameters |
+| [strategy-research-notebooks](https://github.com/weiyutp6/strategy-research-notebooks) | Pairs trading, gold/miner spread, VIX-spike structures, NEAT, credit-cycle z-score notebooks (placeholder parameters, outputs removed) |
 
 ## Skills
 

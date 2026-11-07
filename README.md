@@ -1,7 +1,25 @@
-I am William Chen 陳威宇 from Taiwan.
-Current Masters of Quantitative Finance student at the University of Maryland at College Park with specialization in derivatives pricing.
-Former PhD candidate in BIOE at the University of Maryland at College Park with specialization in aquaculture engineering.
-I have a bachelor’s degree from the department of Engineering Science and Ocean Engineering at National Taiwan University(2018-2021 graduating 1 year early).
-I also have a master's degree from the department of Electrical and Computer Engineering at the University of Maryland(2021-2023).
-Worked under Bio-Imaging and Machine Vision Lab, advised by Prof. Dr. Yang Tao, working on surface robotic control and optimization.
-former team member on the Virtual RobotX 2019 team Tang with a focus on Robot Perception and LiDAR.
+# William Chen (陳威宇)
+
+Master of Quantitative Finance student at the University of Maryland, College Park, specializing in derivatives pricing. Seeking quantitative research and trading internships.
+
+## Background
+
+- **MQF**, University of Maryland, College Park (current), derivatives pricing
+- **PhD study** in Bioengineering (BIOE), University of Maryland, College Park (not completed), aquaculture engineering
+- **MS**, Electrical and Computer Engineering, University of Maryland (2021-2023)
+- **BS**, Engineering Science and Ocean Engineering, National Taiwan University (2018-2021, graduated one year early)
+- Research in the Bio-Imaging and Machine Vision Lab (advisor: Prof. Yang Tao) on robotic control and optimization
+- Former member of the Virtual RobotX 2019 team (perception and LiDAR)
+
+## Selected projects
+
+| Project | What it shows |
+|---|---|
+| [investments_quant_repo](https://github.com/weiyutp6/investments_quant_repo) | Multi-asset market-data toolkit in Python (equities, options, futures, bonds, FX) |
+| [DVLError](https://github.com/weiyutp6/DVLError) | Monte Carlo study of noise and bias accumulating into drift (random walk) |
+| [OptimalCoveragePathPlanningProblem](https://github.com/weiyutp6/OptimalCoveragePathPlanningProblem) | Combinatorial optimization: minimum-turn coverage as a generalized TSP |
+| [Nomoto-model-calculations](https://github.com/weiyutp6/Nomoto-model-calculations) | System identification, transfer-function modelling and reinforcement learning |
+
+## Skills
+
+Python, MATLAB, C/C++, NumPy, pandas, optimization, stochastic processes, Monte Carlo simulation, derivatives pricing, time series.

@@ -5,7 +5,7 @@ Master of Quantitative Finance student at the University of Maryland, College Pa
 ## Background
 
 - **MQF**, University of Maryland, College Park (current), derivatives pricing
-- **PhD study** in Bioengineering (BIOE), University of Maryland, College Park (not completed), aquaculture engineering
+- **PhD study** in Bioengineering (BIOE), University of Maryland, College Park (not completed), biology engineering
 - **MS**, Electrical and Computer Engineering, University of Maryland (2021-2023)
 - **BS**, Engineering Science and Ocean Engineering, National Taiwan University (2018-2021, graduated one year early)
 - Research in the Bio-Imaging and Machine Vision Lab (advisor: Prof. Yang Tao) on robotic control and optimization
